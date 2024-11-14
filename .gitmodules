@@ -1,0 +1,3 @@
+[submodule "submodule/repo"]
+	path = submodule/repo
+	url = https://github.com/Vaneshik/digital-breakthrough-ai-2024
